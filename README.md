@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyator
-- 👀 I’m interested in all thing javascript
+- 👀 I’m interested in all things javascript
 - 🌱 I’m currently learning Arduino framework 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
