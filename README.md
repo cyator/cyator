@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyator
-- 👀 I’m interested in all things javascript
+- 👀 I’m interested in Web, IoT, analytics and automation.
 - 🌱 I'm also passionate about embedded systems. I love working with NodeMCU-32s and Arduino using the Arduino framework and platform.io
-- 💞️ I’m looking to collaborate on web development or IoT projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 Email : christianyator7@gmail.com 
 
